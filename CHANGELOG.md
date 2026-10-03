@@ -2,4 +2,5 @@
 
 ## [Unreleased]
 
-- 初始化适配仓库：注册语境（`data/context` → `quanttide-context-of-github`）。
+- 初始化适配仓库：注册语境（`data/context` → `quanttide-context-of-github-platform`）。
+- 新增 `TODO.md`：记录 `quanttide-github-actions` 归位、其它平台适配器、流水线语义与语法分界三项待定事项（暂不执行）。
