@@ -1,3 +1,6 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-github-platform.git
+[submodule "examples/quanttide-github-lab"]
+	path = examples/quanttide-github-lab
+	url = https://github.com/quanttide/quanttide-github-lab.git
