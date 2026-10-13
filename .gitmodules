@@ -4,3 +4,6 @@
 [submodule "examples/quanttide-github-lab"]
 	path = examples/quanttide-github-lab
 	url = https://github.com/quanttide/quanttide-github-lab.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-github-platform.git

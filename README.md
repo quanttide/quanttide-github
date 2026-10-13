@@ -25,6 +25,7 @@ GitHub 是**平台层**适配，管的是 GitHub 独有、换别的托管平台�
 | 路径 | 说明 |
 |------|------|
 | `data/context` | GitHub 适配语境 (git submodule → quanttide-context-of-github-platform) |
+| `docs/gallery` | GitHub 平台案例集 (git submodule → quanttide-gallery-of-github-platform) |
 | `examples/quanttide-github-lab` | GitHub 适配实验室 (git submodule → quanttide-github-lab) |
 
 其余随实现演进补充。
