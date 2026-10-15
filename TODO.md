@@ -40,4 +40,4 @@ GitLink 等国内平台若要做，各设一个平台适配器，彼此独立、
 
 ## 已定，不在此列
 
-- `quanttide-git` **不创建**——适配器接的是外部系统，Git 是工具与协议，不是外部系统；其用法归 `domains/quanttide-devops` 与 `assets/quanttide-specification`。理由见 [README](README.md) 的「边界」一节。
+- `quanttide-git` **不创建**——适配器接的是外部系统，Git 是工具与协议，不是外部系统；其用法归 `domains/quanttide-devops` 与 `categories/quanttide-specification`。理由见 [README](README.md) 的「边界」一节。
